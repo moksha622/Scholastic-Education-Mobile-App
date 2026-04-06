@@ -33,26 +33,66 @@ Scholastic is a modern educational mobile app designed to help students learn ef
 ### 🏠 Home Screen
 ![Home](https://github.com/user-attachments/assets/d95dac51-5547-46c0-a310-48292cf9fe2f)
 
+
+
+
+
+
 ### 📚 Courses Screen
 ![Courses](https://github.com/user-attachments/assets/7dfa4334-9ccf-4125-81db-1033c9fa76af)
+
+
+
+
 
 ### 📖 Lesson Screen
 ![Lesson](https://github.com/user-attachments/assets/28e4a47a-0e6a-4fc9-931e-2d281a8dff05)
 
+
+
+
+
 ### 🎥 After Video Completed
 ![Video Completed](https://github.com/user-attachments/assets/21d2e1fc-1713-4673-bfa7-73a213867cf0)
+
+
+
+
 
 ### ✔️ After Mark Completed
 ![Mark Completed](https://github.com/user-attachments/assets/913e0af1-a991-4332-a578-200db89a8af2)
 
+
+
+
+
+
 ### 🚫 Quiz Button Disabled
 ![Quiz Disabled](https://github.com/user-attachments/assets/598d9afd-2d6a-4349-a011-fe3358854ec7)
+
+
+
+
+
 
 ### ✅ Quiz Button Active
 ![Quiz Active](https://github.com/user-attachments/assets/2ba51fc5-1215-474c-9cc7-7305dcce1343)
 
+
+
+
+
+
+
 ### 🧠 Quiz Screen
 ![Quiz](https://github.com/user-attachments/assets/22f21485-12f5-4b24-ba28-7c4d0863371d)
+
+
+
+
+
+
+
 
 ### ✍️ After Selecting Answers
 ![Selected Answers](https://github.com/user-attachments/assets/da07ae1e-6cb1-4476-a242-a1725af14c01)
