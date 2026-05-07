@@ -2,6 +2,12 @@
 
 Scholastic is a modern educational mobile app designed to help students learn effectively with quizzes, XP systems, streaks, and interactive lessons.
 
+## 🎥 Scholastic Mobile App Demo
+
+Click below to watch the full working demo of the app:
+
+▶️ [Watch Now](https://github.com/user-attachments/assets/98696f23-9d6c-4d5f-a82e-c91824f9262a)
+
 🚀 Features
 📖 Multiple subjects (Math, Science, English)
 🧠 Quiz system with instant feedback
